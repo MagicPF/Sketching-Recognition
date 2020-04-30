@@ -1,0 +1,19 @@
+
+Dataset
+https://github.com/googlecreativelab/quickdraw-dataset
+Labels
+0) Apple
+1) Bowtie
+2) Door
+3) Envelope
+4) Fish
+5) Ice Cream
+6) Lightning
+7) Mountain
+8) Star
+9) Toothbrush
+
+# that's the address of the open source
+https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap
+# that's the download link to the npy files please download the ten labels of item.
+https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap
